@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | AI/ML & Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Spring+AI+%7C+Microservices;AWS+%7C+Linux+%7C+Terraform;Python+%7C+AI%2FML+%7C+GenAI;Building+scalable+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Spring+AI+%7C+Microservices;Linux+%7+AWS+%7C+Docker+%7+Terraform;Python+%7C+AI%2FML+%7C+GenAI;Building+scalable+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ### 🚀 About Me
 
 - 💼 Software Developer and Cloud Enthusiast
-- 🔭 Working on **Java, Spring Boot & Spring ecosystem** backend development
+- 🔭 Working on **Java, Spring Boot, Microservices** backend development
 - 🌱 Deepening my skills in **Spring AI**, cloud infra, and **Agentic AI / GenAI**
-- ☁️ Comfortable with **AWS, Linux & Terraform** for deployment and infra automation
+- ☁️ Comfortable with **Linux, AWS, Docker & Terraform** for deployment and infra automation
 - 🐍 Building side projects with **Python & AI/ML frameworks**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/himanshu40) | [Email](mailto:hr59871@gmail.com.com)
 
