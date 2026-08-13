@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
-<h3 align="center">AI/ML | Generative AI & Agentic AI | Java Backend | Cloud & DevOps</h3>
+<h3 align="center">Python | AI/ML | Generative AI & Agentic AI | Java Backend | Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI+%7C+Spring+AI;Java+%7C+Spring+Boot+%7C+Microservices;AWS+%7C+Docker+%7C+Terraform+%7C+Linux;Building+AI-powered+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI;Java+%7C+Spring+Boot+%7C+Microservices+%7CSpring+AI;Linux+%7CDocker+%7C+CI/CD Pipeline+AWS;Building+AI-powered+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🐍 Working with **Python, FastAPI, Groq, Gemini and AI/ML frameworks**
 - ☕ Strong interest in **Java, Spring Boot, Spring AI & Microservices**
 - 🔎 Exploring **RAG, Vector Databases, Prompt Engineering & AI Agents**
-- ☁️ Learning and working with **AWS, Linux, Docker & Terraform**
+- ☁️ Learning and working with **AWS, Linux, Docker CI/CD**
 - 🛠️ Interested in building **scalable AI-powered backend systems**
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/himanshu40) | [Email](mailto:hr59871@gmail.com)
 
