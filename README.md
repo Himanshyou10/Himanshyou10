@@ -2,7 +2,7 @@
 <h3 align="center">Python | AI/ML | Generative AI & Agentic AI | Java Backend | Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Spring+AI;Linux+%7C+Docker+%7C+CI/CD Pipeline+%7C+AWS;Building+AI-powered+backend+systems" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Spring+AI;Linux+%7C+Docker+%7C+CI%2FCD+Pipeline+%7C+AWS;Building+AI-powered+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
