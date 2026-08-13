@@ -1,80 +1,116 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">Java Backend Developer | AI/ML & Cloud Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
+<h3 align="center">AI/ML | Generative AI & Agentic AI | Java Backend | Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Spring+AI+%7C+Microservices;Linux+%7C+AWS+%7C+Docker+%7C+Terraform;Python+%7C+AI%2FML+%7C+GenAI;Building+scalable+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI+%7C+Spring+AI;Java+%7C+Spring+Boot+%7C+Microservices;AWS+%7C+Docker+%7C+Terraform+%7C+Linux;Building+AI-powered+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💼 Software Developer and Cloud Enthusiast
-- 🔭 Working on **Java, Spring Boot, Microservices** backend development
-- 🌱 Deepening my skills in **Spring AI**, cloud infra, and **Agentic AI / GenAI**
-- ☁️ Comfortable with **Linux, AWS, Docker & Terraform** for deployment and infra automation
-- 🐍 Building side projects with **Python & AI/ML frameworks**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/himanshu40) | [Email](mailto:hr59871@gmail.com.com)
+- 🤖 Focused on **AI/ML, Deep Learning, Generative AI & Agentic AI**
+- 🧠 Building **LLM applications, RAG pipelines and autonomous AI agents**
+- 🐍 Working with **Python, FastAPI, Groq, Gemini and AI/ML frameworks**
+- ☕ Strong interest in **Java, Spring Boot, Spring AI & Microservices**
+- 🔎 Exploring **RAG, Vector Databases, Prompt Engineering & AI Agents**
+- ☁️ Learning and working with **AWS, Linux, Docker & Terraform**
+- 🛠️ Interested in building **scalable AI-powered backend systems**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/himanshu40) | [Email](mailto:hr59871@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 AI / ML & Generative AI
 
-**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge"/>
+</p>
+
+**AI Tools & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge"/>
+</p>
+
+---
+
+### ☕ Java Backend
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-**Cloud & DevOps**
+---
+
+### ☁️ Cloud & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector%20DBs-6A0DAD?style=for-the-badge"/>
-</p>
+---
 
-**Databases & Tools**
+### 🗄️ Databases & Tools
+
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="400" alt="Coding gif">
-</p>
+### 🔥 Featured Projects
+
+**🤖 Order Supervisor AI**  
+Event-driven autonomous AI agent for long-running order supervision using **FastAPI, Groq LLM, PostgreSQL and APScheduler**.
+
+**📄 AI Invoice Extraction**  
+AI-powered batch invoice processing system using **Python, Streamlit and Groq** to extract PDF data and map invoice line items to SKUs.
+
+**🧠 Spring AI RAG Chatbot**  
+RAG-based chatbot built as a Java microservice using **Spring AI, Gemini, PGVector and Apache PDFBox**.
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/himanshu40"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hr59871@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/himanshyouu__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/himanshu40">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hr59871@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/himanshyouu__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center"><i>⭐️ From a Tier-3 college to building AI-first backend systems — one commit at a time.</i></p>
+<p align="center">
+  <i>⭐️ From Tier-3 college to building autonomous AI agents — one commit at a time. 🚀</i>
+</p>
