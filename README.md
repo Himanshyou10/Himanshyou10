@@ -95,9 +95,6 @@ AI-powered batch invoice processing system using **Python, Streamlit and Groq** 
 **🧠 Spring AI RAG Chatbot**  
 RAG-based chatbot built as a Java microservice using **Spring AI, Gemini, PGVector and Apache PDFBox**.
 
----
-
-### 💻 Coding Mode
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="400" alt="Anime coding" />
