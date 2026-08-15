@@ -2,7 +2,7 @@
 <h3 align="center">Python | AI/ML | Generative AI & Agentic AI | Java Backend | Cloud & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Spring+AI;Linux+%7C+Docker+%7C+CI%2FCD+Pipeline+%7C+AWS;Building+AI-powered+backend+systems" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=AI%2FML+%7C+Deep+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+FastAPI;Java+%7C+Spring+Boot+%7C+Microservices+%7C+Spring+AI;Linux+%7C+Docker+%7C+CI%2FCD+Pipeline+%7C+AWS;Building+AI-powered+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -86,15 +86,16 @@
 
 ### 🔥 Featured Projects
 
-**🤖 Order Supervisor AI**  
-Event-driven autonomous AI agent for long-running order supervision using **FastAPI, Groq LLM, PostgreSQL and APScheduler**.
+**🤖 [Order Supervisor AI](https://github.com/Himanshyou10/Order-Supervisor-AI)**  
+Event-driven autonomous AI agent for long-running e-commerce order supervision using **Python, FastAPI, Groq LLM, PostgreSQL, APScheduler and Docker**. The agent maintains persistent state, wakes on relevant events, executes tool calls, and schedules future wake-ups. 1
 
-**📄 AI Invoice Extraction**  
-AI-powered batch invoice processing system using **Python, Streamlit and Groq** to extract PDF data and map invoice line items to SKUs.
+**📄 [Flowledger](https://github.com/Himanshyou10/Flowledger)**  
+AI-driven batch invoice processing system built with **Python, Streamlit and Groq**. It extracts invoice data from PDFs, performs intelligent SKU mapping, provides visual review/editing, and exports consolidated ERP-ready data. 2
 
-**🧠 Spring AI RAG Chatbot**  
-RAG-based chatbot built as a Java microservice using **Spring AI, Gemini, PGVector and Apache PDFBox**.
+**🚗 [TheDetailingMafia Backend](https://github.com/Himanshyou10/TheDetailingMafiaBackend)**  
+Enterprise-style **Java/Spring Boot microservices** backend for a car-wash platform, featuring **API Gateway, Eureka service discovery, RabbitMQ, JWT/OAuth2 security, Resilience4j, MySQL, MongoDB, PostgreSQL/PGVector, Spring AI and Gemini**. 3
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="400" alt="Anime coding" />
@@ -119,3 +120,4 @@ RAG-based chatbot built as a Java microservice using **Spring AI, Gemini, PGVect
 <p align="center">
   <i>⭐️ From Tier-3 college to building autonomous AI agents — one commit at a time. 🚀</i>
 </p>
+```4
